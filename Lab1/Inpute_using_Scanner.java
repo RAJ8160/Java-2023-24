@@ -1,3 +1,5 @@
+package B_tech_2nd_sem;
+
 import java.util.Scanner;
 class Inpute_using_Scanner{
 	public static void main(String[] args) {

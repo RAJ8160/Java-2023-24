@@ -1,3 +1,5 @@
+package B_tech_2nd_sem;
+
 class Get_inpute_by_usser{
 	public static void main(String[] args) {
 		int a=Integer.parseInt(args[0]);
